@@ -1,2 +1,4 @@
-# card-links
-Links for note card preview
+# OpenAI
+
+Official website  
+https://openai.com
