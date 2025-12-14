@@ -1,4 +1,4 @@
-# OpenAI
+# OpenAI News (JP)
 
-Official website  
-https://openai.com
+Official OpenAI news page (Japanese)
+https://openai.com/ja-JP/news/
